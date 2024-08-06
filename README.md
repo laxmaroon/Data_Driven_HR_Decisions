@@ -3,7 +3,7 @@
 
 ## Project Overview
 
-Welcome to my capstone project repository. In this project, I analyze a dataset and build predictive models to provide valuable insights to the Human Resources (HR) department of a large consulting firm. The primary objective is to predict whether or not an employee will leave the company, helping HR make informed decisions to improve employee retention.
+Welcome to my capstone project repository. In this project, I analyzed a dataset and built predictive models to provide valuable insights to the Human Resources (HR) department of a large consulting firm. The primary objective is to predict whether or not an employee will leave the company, helping HR make informed decisions to improve employee retention.
 
 ## Project Deliverables
 

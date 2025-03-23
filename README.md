@@ -8,10 +8,10 @@ This capstone project addresses a critical challenge in Human Resources: **emplo
 
 ## 📁 Project Deliverables
 
-- 📄 **[Executive Summary](link-to-summary)**  
+- 📄 **[Executive Summary]**  
   A one-page business-friendly overview, tailored for stakeholders, summarizing key findings and strategic recommendations.
 
-- 📓 **[Jupyter Notebook](link-to-notebook)**  
+- 📓 **[Jupyter Notebook]**  
   Contains all code, visualizations, model development, and interpretability techniques used throughout the project.
 
 ---

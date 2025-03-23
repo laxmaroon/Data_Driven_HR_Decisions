@@ -104,4 +104,10 @@ This project demonstrates my ability to:
 **📬 Let's Connect**  
 If you're a data leader exploring talent who blends technical skill with business intuition, I’d love to collaborate or hear your thoughts!
 
+## 📬 Contact
+
+If you'd like to connect, collaborate, or discuss the project:
+
+- ✉️ Email: [loviaeb@gmail.com](mailto:loviaeb@gmail.com)  
+- 🔗 LinkedIn: [linkedin.com/in/lovia-edassery](https://www.linkedin.com/in/lovia-edassery)
 ---

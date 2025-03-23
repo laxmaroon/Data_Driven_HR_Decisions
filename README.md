@@ -2,7 +2,7 @@
 
 ## 📌 Overview
 
-This capstone project addresses a critical challenge in Human Resources: **employee attrition**. By leveraging data science, I built a predictive system that helps HR teams anticipate and reduce employee turnover. The solution combines **exploratory analysis**, **machine learning**, and **ethical modeling** to deliver actionable insights for proactive decision-making.
+This capstone project addresses a critical challenge in Human Resources: **employee attrition**. Using data science, I built a predictive system that helps HR teams anticipate and reduce employee turnover. The solution combines **exploratory analysis**, **machine learning**, and **ethical modeling** to deliver actionable insights for proactive decision-making.
 
 ---
 
